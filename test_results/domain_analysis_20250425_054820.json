@@ -1,0 +1,314 @@
+[
+  {
+    "status": "success",
+    "timestamp": "2025-04-25T05:48:19.270095",
+    "analysis_type": "domain",
+    "ai_summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+    "specialized_data": {
+      "domain": {
+        "timestamp": "2025-04-25T05:48:19.269500",
+        "type": "domains",
+        "target": "google.com",
+        "stats": {
+          "harmless": 66,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 28
+        },
+        "reputation": 614,
+        "total_votes": {
+          "harmless": 417,
+          "malicious": 72
+        },
+        "registrar": "MarkMonitor Inc.",
+        "creation_date": 874306800,
+        "last_update_date": 1722565053,
+        "last_dns_records_date": 1745559971,
+        "whois": "Admin Country: US\nAdmin Organization: Google LLC\nAdmin State/Province: CA\nCreation Date: 1997-09-15T04:00:00Z\nCreation Date: 1997-09-15T07:00:00+0000\nDNSSEC: unsigned\nDomain Name: GOOGLE.COM\nDomain Name: google.com\nDomain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nDomain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)\nDomain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\nDomain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)\nDomain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited\nDomain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)\nDomain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\nName Server: NS1.GOOGLE.COM\nName Server: NS2.GOOGLE.COM\nName Server: NS3.GOOGLE.COM\nName Server: NS4.GOOGLE.COM\nName Server: ns1.google.com\nName Server: ns2.google.com\nName Server: ns3.google.com\nName Server: ns4.google.com\nRegistrant Country: US\nRegistrant Email: ca4484b9e50182bds@\nRegistrant Organization: 3307059bbb3149c4\nRegistrant State/Province: b1952dfc047df18a\nRegistrar Abuse Contact Email: abusecomplaints@markmonitor.com\nRegistrar Abuse Contact Phone: +1.2086851750\nRegistrar IANA ID: 292\nRegistrar Registration Expiration Date: 2028-09-13T07:00:00+0000\nRegistrar URL: http://www.markmonitor.com\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar: MarkMonitor Inc.\nRegistrar: MarkMonitor, Inc.\nRegistry Domain ID: 2138514_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2028-09-14T04:00:00Z\nTech Country: US\nTech Organization: Google LLC\nTech State/Province: CA\nUpdated Date: 2019-09-09T15:39:04Z\nUpdated Date: 2024-08-02T02:17:33+0000"
+      }
+    },
+    "analysis": {
+      "risk_level": "low",
+      "indicators": {
+        "target": "google.com",
+        "type": "domains",
+        "detection_stats": {
+          "harmless": 66,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 28
+        }
+      },
+      "summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+      "recommendations": [
+        "Monitor for changes in risk level",
+        "No immediate action required",
+        "Keep record for future reference"
+      ]
+    },
+    "test_info": {
+      "value": "google.com",
+      "description": "Google"
+    }
+  },
+  {
+    "status": "success",
+    "timestamp": "2025-04-25T05:48:19.531377",
+    "analysis_type": "domain",
+    "ai_summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+    "specialized_data": {
+      "domain": {
+        "timestamp": "2025-04-25T05:48:19.530852",
+        "type": "domains",
+        "target": "microsoft.com",
+        "stats": {
+          "harmless": 66,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 28
+        },
+        "reputation": 35,
+        "total_votes": {
+          "harmless": 71,
+          "malicious": 18
+        },
+        "registrar": "MarkMonitor Inc.",
+        "creation_date": 673156800,
+        "last_update_date": 1743511109,
+        "last_dns_records_date": 1745559820,
+        "whois": "Admin City: Redmond\nAdmin Country: US\nAdmin Email: a5304ad70a67560cs@domains.microsoft\nAdmin Organization: Microsoft Corporation\nAdmin Postal Code: 98052\nAdmin State/Province: WA\nCreation Date: 1991-05-02T04:00:00+0000\nCreation Date: 1991-05-02T04:00:00Z\nDNSSEC: unsigned\nDomain Name: MICROSOFT.COM\nDomain Name: microsoft.com\nDomain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nDomain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)\nDomain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\nDomain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)\nDomain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited\nDomain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)\nDomain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\nName Server: NS1-39.AZURE-DNS.COM\nName Server: NS2-39.AZURE-DNS.NET\nName Server: NS3-39.AZURE-DNS.ORG\nName Server: NS4-39.AZURE-DNS.INFO\nName Server: ns1-39.azure-dns.com\nName Server: ns2-39.azure-dns.net\nName Server: ns3-39.azure-dns.org\nName Server: ns4-39.azure-dns.info\nRegistrant City: b6b1ba5f05367788\nRegistrant Country: US\nRegistrant Email: a5304ad70a67560cs@domains.microsoft\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 7d1f3c3fb96a62b3\nRegistrant Name: 1f33d7151e7ebf55\nRegistrant Organization: 628983377a05fb4c\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: 8f198ff1733e2d60\nRegistrant Postal Code: 2908382a58eb4969\nRegistrant State/Province: 163b5dbd6196f461\nRegistrant Street: f7e82401de265d18\nRegistrar Abuse Contact Email: abusecomplaints@markmonitor.com\nRegistrar Abuse Contact Phone: +1.2086851750\nRegistrar IANA ID: 292\nRegistrar Registration Expiration Date: 2026-05-03T00:00:00+0000\nRegistrar URL: http://www.markmonitor.com\nRegistrar WHOIS Server: whois.markmonitor.com\nRegistrar: MarkMonitor Inc.\nRegistrar: MarkMonitor, Inc.\nRegistry Domain ID: 2724960_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2026-05-03T04:00:00Z\nTech City: Redmond\nTech Country: US\nTech Email: d68aef17879f209fs@microsoft.com\nTech Organization: Microsoft Corporation\nTech Postal Code: 98052\nTech State/Province: WA\nUpdated Date: 2025-04-01T12:38:29+0000\nUpdated Date: 2025-04-01T12:38:29Z"
+      }
+    },
+    "analysis": {
+      "risk_level": "low",
+      "indicators": {
+        "target": "microsoft.com",
+        "type": "domains",
+        "detection_stats": {
+          "harmless": 66,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 28
+        }
+      },
+      "summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+      "recommendations": [
+        "Monitor for changes in risk level",
+        "No immediate action required",
+        "Keep record for future reference"
+      ]
+    },
+    "test_info": {
+      "value": "microsoft.com",
+      "description": "Microsoft"
+    }
+  },
+  {
+    "status": "success",
+    "timestamp": "2025-04-25T05:48:19.786052",
+    "analysis_type": "domain",
+    "ai_summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+    "specialized_data": {
+      "domain": {
+        "timestamp": "2025-04-25T05:48:19.785244",
+        "type": "domains",
+        "target": "temp.suspicious-domain.com",
+        "stats": {
+          "harmless": 0,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 94
+        },
+        "reputation": 0,
+        "total_votes": {
+          "harmless": 0,
+          "malicious": 0
+        },
+        "registrar": "",
+        "creation_date": "",
+        "last_update_date": "",
+        "last_dns_records_date": "",
+        "whois": ""
+      }
+    },
+    "analysis": {
+      "risk_level": "low",
+      "indicators": {
+        "target": "temp.suspicious-domain.com",
+        "type": "domains",
+        "detection_stats": {
+          "harmless": 0,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 94
+        }
+      },
+      "summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+      "recommendations": [
+        "Monitor for changes in risk level",
+        "No immediate action required",
+        "Keep record for future reference"
+      ]
+    },
+    "test_info": {
+      "value": "temp.suspicious-domain.com",
+      "description": "Suspicious temp"
+    }
+  },
+  {
+    "status": "success",
+    "timestamp": "2025-04-25T05:48:20.018723",
+    "analysis_type": "domain",
+    "ai_summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+    "specialized_data": {
+      "domain": {
+        "timestamp": "2025-04-25T05:48:20.018085",
+        "type": "domains",
+        "target": "free-bitcoin-wallet.com",
+        "stats": {
+          "harmless": 0,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 94
+        },
+        "reputation": 0,
+        "total_votes": {
+          "harmless": 0,
+          "malicious": 0
+        },
+        "registrar": "RegistryGate GmbH",
+        "creation_date": 1467665975,
+        "last_update_date": 1548062691,
+        "last_dns_records_date": "",
+        "whois": "Domain Name: FREE-BITCOIN-WALLET.COM\nRegistry Domain ID: 2040032864_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.registrygate.com\nRegistrar URL: http://www.registrygate.com\nUpdated Date: 2019-01-21T09:24:51Z\nCreation Date: 2016-07-04T20:59:35Z\nRegistry Expiry Date: 2019-07-04T20:59:35Z\nRegistrar: RegistryGate GmbH\nRegistrar IANA ID: 1328\nDomain Status: redemptionPeriod https://icann.org/epp#redemptionPeriod\nName Server: NS01.ACCELERATED.DE\nName Server: NS02.ACCELERATED.DE\nName Server: NS03.ACCELERATED.DE\nName Server: NS04.ACCELERATED.DE\nDNSSEC: unsigned"
+      }
+    },
+    "analysis": {
+      "risk_level": "low",
+      "indicators": {
+        "target": "free-bitcoin-wallet.com",
+        "type": "domains",
+        "detection_stats": {
+          "harmless": 0,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 94
+        }
+      },
+      "summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+      "recommendations": [
+        "Monitor for changes in risk level",
+        "No immediate action required",
+        "Keep record for future reference"
+      ]
+    },
+    "test_info": {
+      "value": "free-bitcoin-wallet.com",
+      "description": "Crypto suspicious"
+    }
+  },
+  {
+    "status": "success",
+    "timestamp": "2025-04-25T05:48:20.260698",
+    "analysis_type": "domain",
+    "ai_summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+    "specialized_data": {
+      "domain": {
+        "timestamp": "2025-04-25T05:48:20.260023",
+        "type": "domains",
+        "target": "google-security.temp.com",
+        "stats": {
+          "harmless": 0,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 94
+        },
+        "reputation": 0,
+        "total_votes": {
+          "harmless": 0,
+          "malicious": 0
+        },
+        "registrar": "NAMECHEAP INC",
+        "creation_date": 806904000,
+        "last_update_date": 1661986640,
+        "last_dns_records_date": 1745559920,
+        "whois": "Admin City: Tampa\nAdmin Country: US\nAdmin Email: a5304ad70a67560cs@reflex.com\nAdmin Organization: Reflex Publishing, Inc.\nAdmin Postal Code: 33606\nAdmin State/Province: FL\nCreation Date: 1995-07-28T04:00:00.00Z\nCreation Date: 1995-07-28T04:00:00Z\nDNSSEC: unsigned\nDomain Name: TEMP.COM\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain name: temp.com\nName Server: NS1.DIGIMEDIA.COM\nName Server: NS2.DIGIMEDIA.COM\nName Server: NS3.DIGIMEDIA.COM\nName Server: ns1.digimedia.com\nName Server: ns2.digimedia.com\nName Server: ns3.digimedia.com\nRegistrant City: 14fcba1302cde223\nRegistrant Country: US\nRegistrant Email: a5304ad70a67560cs@reflex.com\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 3432650ec337c945\nRegistrant Name: c40c0fe32acbce8c\nRegistrant Organization: e8c1a24448754af0\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: ef45b17e9d1dc089\nRegistrant Postal Code: 0d74c95df9abe7fc\nRegistrant State/Province: 6eb233f5a5adbed8\nRegistrant Street: f83f2a9366a908f0\nRegistrar Abuse Contact Email: abuse@namecheap.com\nRegistrar Abuse Contact Phone: +1.6613102107\nRegistrar Abuse Contact Phone: +1.9854014545\nRegistrar IANA ID: 1068\nRegistrar Registration Expiration Date: 2031-07-27T04:00:00.00Z\nRegistrar URL: http://www.namecheap.com\nRegistrar WHOIS Server: whois.namecheap.com\nRegistrar: NAMECHEAP INC\nRegistrar: NameCheap, Inc.\nRegistry Domain ID: 598170_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2031-07-27T04:00:00Z\nTech City: Tampa\nTech Country: US\nTech Email: a5304ad70a67560cs@reflex.com\nTech Organization: Reflex Publishing, Inc.\nTech Postal Code: 33606\nTech State/Province: FL\nUpdated Date: 2022-08-31T22:57:20.44Z\nUpdated Date: 2022-08-31T22:57:20Z"
+      }
+    },
+    "analysis": {
+      "risk_level": "low",
+      "indicators": {
+        "target": "google-security.temp.com",
+        "type": "domains",
+        "detection_stats": {
+          "harmless": 0,
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 94
+        }
+      },
+      "summary": "Analysis found 0 malicious and 0 suspicious indicators. Risk level: low",
+      "recommendations": [
+        "Monitor for changes in risk level",
+        "No immediate action required",
+        "Keep record for future reference"
+      ]
+    },
+    "test_info": {
+      "value": "google-security.temp.com",
+      "description": "Typosquatting"
+    }
+  },
+  {
+    "status": "success",
+    "timestamp": "2025-04-25T05:48:20.482816",
+    "analysis_type": "domain",
+    "ai_summary": "Analysis found 0 malicious and 1 suspicious indicators. Risk level: low",
+    "specialized_data": {
+      "domain": {
+        "timestamp": "2025-04-25T05:48:20.482149",
+        "type": "domains",
+        "target": "secure-bank-login.com",
+        "stats": {
+          "harmless": 60,
+          "malicious": 0,
+          "suspicious": 1,
+          "undetected": 33
+        },
+        "reputation": 0,
+        "total_votes": {
+          "harmless": 0,
+          "malicious": 0
+        },
+        "registrar": "REGISTRAR OF DOMAIN NAMES REG.RU LLC",
+        "creation_date": 1502123662,
+        "last_update_date": 1539728260,
+        "last_dns_records_date": "",
+        "whois": "Domain Name: SECURE-BANK-LOGIN.COM\nRegistry Domain ID: 2150993772_DOMAIN_COM-VRSN\nRegistrar WHOIS Server: whois.reg.com\nRegistrar URL: http://www.reg.ru\nUpdated Date: 2018-10-16T22:17:40Z\nCreation Date: 2017-08-07T16:34:22Z\nRegistry Expiry Date: 2018-08-07T16:34:22Z\nRegistrar: REGISTRAR OF DOMAIN NAMES REG.RU LLC\nRegistrar IANA ID: 1606\nRegistrar Abuse Contact Email: abuse@reg.ru\nRegistrar Abuse Contact Phone: +74955801111\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: pendingDelete https://icann.org/epp#pendingDelete\nName Server: NS1.EXPIRED.REG.RU\nName Server: NS2.EXPIRED.REG.RU\nDNSSEC: unsigned"
+      }
+    },
+    "analysis": {
+      "risk_level": "low",
+      "indicators": {
+        "target": "secure-bank-login.com",
+        "type": "domains",
+        "detection_stats": {
+          "harmless": 60,
+          "malicious": 0,
+          "suspicious": 1,
+          "undetected": 33
+        }
+      },
+      "summary": "Analysis found 0 malicious and 1 suspicious indicators. Risk level: low",
+      "recommendations": [
+        "Monitor for changes in risk level",
+        "No immediate action required",
+        "Keep record for future reference"
+      ]
+    },
+    "test_info": {
+      "value": "secure-bank-login.com",
+      "description": "Potential phishing"
+    }
+  }
+]

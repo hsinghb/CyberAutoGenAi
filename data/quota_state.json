@@ -1,0 +1,1 @@
+{"quotas": {}, "usage": {"default": 0, "ThreatHuntingAgent": 1, "ShodanAgent": 1, "VirusTotalAgent": 1}, "last_reset": {"default": "2025-04-25T03:37:38.141249", "ThreatHuntingAgent": "2025-04-25T03:37:38.141311", "ShodanAgent": "2025-04-25T04:31:38.358991", "VirusTotalAgent": "2025-04-25T05:17:30.332598"}}

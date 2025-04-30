@@ -1,0 +1,56 @@
+[
+  {
+    "status": "error",
+    "error_type": "Processing Error",
+    "message": "API request failed with status 400",
+    "test_info": {
+      "value": "https://www.python.org",
+      "description": "Python official"
+    }
+  },
+  {
+    "status": "error",
+    "error_type": "Processing Error",
+    "message": "API request failed with status 400",
+    "test_info": {
+      "value": "https://github.com",
+      "description": "GitHub"
+    }
+  },
+  {
+    "status": "error",
+    "error_type": "Processing Error",
+    "message": "API request failed with status 400",
+    "test_info": {
+      "value": "http://unsecure-login.com/bank",
+      "description": "Unsecure login"
+    }
+  },
+  {
+    "status": "error",
+    "error_type": "Processing Error",
+    "message": "API request failed with status 400",
+    "test_info": {
+      "value": "https://bit.ly/suspicious-link",
+      "description": "Shortened URL"
+    }
+  },
+  {
+    "status": "error",
+    "error_type": "Processing Error",
+    "message": "API request failed with status 400",
+    "test_info": {
+      "value": "http://banking.secure-login.temp.com/login",
+      "description": "Phishing pattern"
+    }
+  },
+  {
+    "status": "error",
+    "error_type": "Processing Error",
+    "message": "API request failed with status 400",
+    "test_info": {
+      "value": "https://download.free-software.temp.com/exe",
+      "description": "Suspicious download"
+    }
+  }
+]

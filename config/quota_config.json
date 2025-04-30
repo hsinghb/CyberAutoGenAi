@@ -1,0 +1,22 @@
+{
+    "openai": {
+        "daily_limit": 1000,
+        "rate_limit": 60,
+        "retry_after": 60
+    },
+    "virustotal": {
+        "daily_limit": 500,
+        "rate_limit": 4,
+        "retry_after": 60
+    },
+    "shodan": {
+        "daily_limit": 100,
+        "rate_limit": 1,
+        "retry_after": 60
+    },
+    "abuseipdb": {
+        "daily_limit": 1000,
+        "rate_limit": 60,
+        "retry_after": 60
+    }
+} 
